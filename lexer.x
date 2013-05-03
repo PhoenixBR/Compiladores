@@ -1,3 +1,5 @@
+//atualizando 1
+
 %{
 #include <stdio.h>
 #include "sintax.tab.h"
